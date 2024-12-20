@@ -1,3 +1,5 @@
 the dataset used is from kaggle.
-the titanic survival dataset.
-Its free
+the iris  dataset contains three different classification iris flowers.
+Its free.
+It is small dataset which can be used for learning purpose.
+
