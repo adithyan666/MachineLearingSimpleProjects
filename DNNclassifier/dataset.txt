@@ -1,0 +1,3 @@
+the dataset used is from kaggle.
+the titanic survival dataset.
+Its free
