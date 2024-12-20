@@ -1,0 +1,6 @@
+lustering :
+	is an unsupervised machine learning technique designed to group unlabeled examples based on their similarity to each other.
+
+A Hidden Markov Model (HMM):
+	 is a statistical model that uses observed parameters to identify hidden parameters
+Here we used HMM for finding the probability of temperature of upcoming days.
